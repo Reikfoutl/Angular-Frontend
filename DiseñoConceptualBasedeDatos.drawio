@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T06:20:14.927Z" agent="5.0 (Windows)" etag="XAofIdmSbKQ2pNgGlFvp" version="20.8.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T06:23:08.067Z" agent="5.0 (Windows)" etag="aL12Wza9X0gQ3UVl7VNV" version="20.8.15" type="github">
   <diagram name="Página-1" id="8A7TZuWNmLD7l289WF7t">
-    <mxGraphModel dx="1780" dy="1811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2017" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,12 @@
         </mxCell>
         <mxCell id="_24kIL8CpeRiUknFqcpS-1" value="Posee los temas" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=1;glass=0;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1070" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_24kIL8CpeRiUknFqcpS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_24kIL8CpeRiUknFqcpS-17" target="_24kIL8CpeRiUknFqcpS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_24kIL8CpeRiUknFqcpS-17" value="Plataforma de noticias, curiosidades, historias" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;glass=0;sketch=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
